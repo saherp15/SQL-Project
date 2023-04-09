@@ -4,13 +4,12 @@ This repository contains a collection of SQL projects that demonstrate various d
 Projects
 The following SQL projects are included in this repository:
 
-Project 1: [Nashville House Data Cleaning Project](https://github.com/saherp15/SQL-Project/blob/main/Nashville%20House%20Data%20cleaning)
+Project 1: [Nashville House Data Cleaning Project](https://github.com/saherp15/SQL-Project/blob/main/projects.sql)
 
 
 Description: This project involves cleaning and preparing a dataset of Nashville housing data for analysis. The dataset contains information about houses in Nashville, including attributes such as location, size, price, and condition. The project includes tasks such as handling missing values, correcting data inconsistencies, and transforming data as needed for analysis. The cleaned dataset is stored in a cleaned_data.csv file.
 
 Technologies:  SQL server
-Folder: ./project1
 
 Installation
 To run these SQL projects on your local machine, follow these steps:
