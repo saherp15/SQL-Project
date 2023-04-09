@@ -33,6 +33,7 @@ from [Pro1 Nahwille].dbo.NashvilleHousing as a
 join [Pro1 Nahwille].dbo.NashvilleHousing as b on
 a.ParcelID=b.ParcelID and a.[UniqueID ]!=b.[UniqueID ]
 where a.PropertyAddress is NULL
+----END--
 
 -------Breaking out address into columns (address,city,state)
 select PropertyAddress
