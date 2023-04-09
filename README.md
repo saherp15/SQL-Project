@@ -28,6 +28,5 @@ Contributions to this repository are welcome! If you would like to contribute to
 Contact Information
 For questions or feedback about these SQL projects, please contact saherpatait15@gmail.com
 
-Credits
-I would like to extend my special thanks to [AlexTheAnalyst](https://www.youtube.com/c/alextheanalyst) for their informative and educational videos on YouTube. Their tutorials and guides have been invaluable in helping me learn and understand SQL concepts, including this project.
+
 
