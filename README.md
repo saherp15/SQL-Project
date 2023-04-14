@@ -11,6 +11,10 @@ Description: This project involves cleaning and preparing a dataset of Nashville
 
 Technologies:  SQL server
 
+Project 2:[Music store](https://github.com/saherp15/SQL-Project/blob/main/music.sql)
+Description: The project likely involves analyzing data from a music store database using SQL queries. It may involve tasks such as retrieving and filtering data, performing calculations and aggregations, joining and combining tables, and generating reports or insights to gain meaningful information from the data. The project may focus on various aspects of music store data, such as sales, customers, products, orders, and transactions, and may involve exploring trends, patterns, and relationships in the data to derive actionable insights.
+
+
 Installation
 To run these SQL projects on your local machine, follow these steps:
 
